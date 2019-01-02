@@ -60,6 +60,7 @@
 ## SETTINGS/CONFIGURE:
 [ ] Make desktop icon appear
 [ ] Configure github shell credentials
+[ ] Configure Mac Mail App for email
 
 ## Music
 [ ] Install Spotify  
