@@ -10,7 +10,8 @@
 ## COMMAND LINE
 [ ] Install iTerm2  
 [ ] Ohmyzsh  
-[ ] Install cobalt2 iterm theme  
+[ ] Install cobalt2 iterm theme
+    * Change theme in iterm
 
 ## Applications
 [ ] Install Spectacle  
