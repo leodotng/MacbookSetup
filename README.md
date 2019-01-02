@@ -12,11 +12,16 @@
 [ ] Ohmyzsh  
 [ ] Install cobalt2 iterm theme  
 
-## Tools 
+## Applications
 [ ] Install Spectacle  
 [ ] Install Xcode  
 [ ] Update Xcode Command Line Tools  
 [ ] Install Postgresql
+[ ] Simplenote
+[ ] Evernote
+[ ] Install Real Time Board  
+[ ] Dev.to Desktop App  
+
 
 ## IDE Related
 [ ] Install VS Code  
@@ -24,18 +29,11 @@
 [ ] Install VS Code Extension Theme - Level Up
 [ ] Install Hack Font   
 [ ] Install Macvim 
-[ ] Install Visual Studio Community Edition  
-  
-
-[ ] Install Real Time Board  
-[ ] Dev.to Desktop App  
-[ ] Install Telnet  
+[ ] Install Visual Studio Community Edition    
 
 ## NPM
-[ ] Install Yarn
+[ ] Install Yarn  
 [ ] Nodemon  
-
-
 
 ## Code
 [ ] Install GoLang
@@ -45,6 +43,7 @@
 [ ] Install Anaconda  
 [ ] Install Python 3.7 version  
 [ ] Install Elixir  
+[ ] Install TypeScript
 
 
 ## Communication
@@ -56,3 +55,7 @@
 
 ## Music
 [ ] Install Spotify  
+
+## Misc.
+[ ] Install Telnet
+
