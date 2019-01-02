@@ -1,32 +1,58 @@
-## New Macbook Setup Checklist
+# New Macbook Setup Checklist
+
+## MAC
+[ ] Install Mojave Update  
+
+## BROWSERS
 [ ] Install Chrome  
+[ ] Install Opera  
+
+## COMMAND LINE
 [ ] Install iTerm2  
 [ ] Ohmyzsh  
-[ ] Install Opera  
-[ ] Install Spotify  
+[ ] Install cobalt2 iterm theme  
+
+## Tools 
 [ ] Install Spectacle  
 [ ] Install Xcode  
 [ ] Update Xcode Command Line Tools  
+[ ] Install Postgresql
+
+## IDE Related
 [ ] Install VS Code  
 [ ] Install Fira Code Font  
 [ ] Install VS Code Extension Theme - Level Up
-[ ] Install cobalt2 iterm theme
-[ ] Install Node.js via brew  
-[ ] Install Ruby on Rails  
-[ ] Install Anaconda  
-[ ] Install Python 3.7 version  
+[ ] Install Hack Font   
+[ ] Install Macvim 
 [ ] Install Visual Studio Community Edition  
-[ ] Install Elixir  
-[ ] Install Postgresql  
+  
 
 [ ] Install Real Time Board  
 [ ] Dev.to Desktop App  
 [ ] Install Telnet  
 
-[ ] Install Hack Font  
+## NPM
 [ ] Install Yarn
 [ ] Nodemon  
-[ ] macvim  
-[ ] azure cli  
-[ ] rbenv  
+
+
+
+## Code
 [ ] Install GoLang
+[ ] Install Node.js via brew  
+[ ] Install Ruby on Rails 
+[ ] rbenv   
+[ ] Install Anaconda  
+[ ] Install Python 3.7 version  
+[ ] Install Elixir  
+
+
+## Communication
+[ ] Install Slack  
+[ ] Install Microsoft Teams  
+
+## SETTINGS:
+[ ] Make desktop icon appear
+
+## Music
+[ ] Install Spotify  
