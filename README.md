@@ -28,7 +28,7 @@
 [ ] Install Fira Code Font  
 [ ] Install VS Code Extension Theme - Level Up  
 [ ] Install Hack Font   
-[ ] Install Macvim 
+[ ] Install Macvim  
 [ ] Install Visual Studio Community Edition    
 
 ## NPM
