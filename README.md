@@ -57,8 +57,9 @@
     * Add All Relevant Channels  
 [ ] Install Microsoft Teams  
 
-## SETTINGS:
+## SETTINGS/CONFIGURE:
 [ ] Make desktop icon appear
+[ ] Configure github shell credentials
 
 ## Music
 [ ] Install Spotify  
