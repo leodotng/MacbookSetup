@@ -45,6 +45,12 @@
 [ ] Install Elixir  
 [ ] Install TypeScript
 
+## CLI
+[ ] Install Angular CLI
+[ ] Install React CLI
+[ ] Install Vue CLI
+[ ] Install Gatsby Command Line Tools
+
 
 ## Communication
 [ ] Install Slack  
