@@ -10,24 +10,23 @@
 ## COMMAND LINE
 [ ] Install iTerm2  
 [ ] Ohmyzsh  
-[ ] Install cobalt2 iterm theme
-    * Change theme in iterm
+[ ] Install cobalt2 iterm theme  
+    * Change theme in iterm  
 
 ## Applications
 [ ] Install Spectacle  
 [ ] Install Xcode  
 [ ] Update Xcode Command Line Tools  
-[ ] Install Postgresql
-[ ] Simplenote
-[ ] Evernote
+[ ] Install Postgresql  
+[ ] Simplenote  
+[ ] Evernote  
 [ ] Install Real Time Board  
 [ ] Dev.to Desktop App  
-
 
 ## IDE Related
 [ ] Install VS Code  
 [ ] Install Fira Code Font  
-[ ] Install VS Code Extension Theme - Level Up
+[ ] Install VS Code Extension Theme - Level Up  
 [ ] Install Hack Font   
 [ ] Install Macvim 
 [ ] Install Visual Studio Community Edition    
@@ -37,7 +36,7 @@
 [ ] Nodemon  
 
 ## Code
-[ ] Install GoLang
+[ ] Install GoLang  
 [ ] Install Node.js via brew  
 [ ] Install Ruby on Rails 
 [ ] rbenv   
