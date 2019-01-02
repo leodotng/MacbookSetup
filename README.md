@@ -24,6 +24,7 @@ https://github.com/wesbos/Cobalt2-iterm
 [ ] Install Xcode  
 [ ] Update Xcode Command Line Tools  
 [ ] Install Postgresql  
+https://gist.github.com/ibraheem4/ce5ccd3e4d7a65589ce84f2a3b7c23a3  
 [ ] Simplenote  
 [ ] Evernote  
 [ ] Install Real Time Board  
@@ -37,10 +38,13 @@ In VS Code use Shift + Command + P and look for the above line
 * Install Terminal Extension
 It's by Jun Han titled 'Terminal for Visual Studio Code'
 [ ] Install Fira Code Font  
+https://github.com/tonsky/FiraCode  
 [ ] Install VS Code Extension Theme - Level Up  
-[ ] Install Hack Font   
+[ ] Install Hack Font  
+https://github.com/source-foundry/Hack     
 [ ] Install Macvim  
 [ ] Install Visual Studio Community Edition    
+[ ] Install Ruby Language Support Extension
 
 ## NPM
 [ ] Install Yarn  
@@ -49,18 +53,28 @@ It's by Jun Han titled 'Terminal for Visual Studio Code'
 ## Code
 [ ] Install GoLang  
 [ ] Install Node.js via brew  
-[ ] Install Ruby on Rails 
-[ ] rbenv   
+[ ] Install Ruby on Rails   
+[ ] rbenv     
 [ ] Install Anaconda  
 [ ] Install Python 3.7 version  
 [ ] Install Elixir  
-[ ] Install TypeScript
+https://gist.github.com/likethesky/abb00e5aedc38ee9f711  
+[ ] Install Elixir extension for VS Code
+vscode-elixir By:  
+Mat McLoughlin 
+[ ] Install TypeScript  
+https://www.typescriptlang.org/  
+npm install -g typescript  
 
 ## CLI
 [ ] Install Angular CLI  
+https://cli.angular.io/  
 [ ] Install React CLI  
 [ ] Install Vue CLI  
+https://cli.vuejs.org/guide/installation.html 
+npm install -g @vue/cli   
 [ ] Install Gatsby Command Line Tools  
+https://www.gatsbyjs.org/packages/gatsby-cli/
 
 
 ## Communication
@@ -78,6 +92,8 @@ It's by Jun Han titled 'Terminal for Visual Studio Code'
 
 ## Misc.
 [ ] Install Telnet  
+Most people don't need this but I use it for a game I play every once in a while that connects through telnet.
+http://osxdaily.com/2018/07/18/get-telnet-macos/  
 [ ] Redownload App Store Downloads
 
 ## Reminders
