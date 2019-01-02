@@ -61,3 +61,6 @@
 [ ] Install Telnet  
 [ ] Redownload App Store Downloads
 
+## Reminders
+* Backup Itunes Iphone/Ipad Backups
+
