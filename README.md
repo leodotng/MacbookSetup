@@ -11,7 +11,13 @@
 [ ] Install iTerm2  
 [ ] Ohmyzsh  
 [ ] Install cobalt2 iterm theme  
+https://github.com/wesbos/Cobalt2-iterm
     * Change theme in iterm  
+[ ] Install Homebrew
+* https://brew.sh/
+[ ] Install Git
+* http://sourceforge.net/projects/git-osx-installer/
+
 
 ## Applications
 [ ] Install Spectacle  
@@ -24,7 +30,12 @@
 [ ] Dev.to Desktop App  
 
 ## IDE Related
-[ ] Install VS Code  
+[ ] Install VS Code
+https://code.visualstudio.com/ 
+* Shell Command: Install 'code' command in PATH  
+In VS Code use Shift + Command + P and look for the above line 
+* Install Terminal Extension
+It's by Jun Han titled 'Terminal for Visual Studio Code'
 [ ] Install Fira Code Font  
 [ ] Install VS Code Extension Theme - Level Up  
 [ ] Install Hack Font   
