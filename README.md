@@ -48,6 +48,7 @@
 
 ## Communication
 [ ] Install Slack  
+    * Add All Relevant Channels  
 [ ] Install Microsoft Teams  
 
 ## SETTINGS:
@@ -57,5 +58,6 @@
 [ ] Install Spotify  
 
 ## Misc.
-[ ] Install Telnet
+[ ] Install Telnet  
+[ ] Redownload App Store Downloads
 
