@@ -46,10 +46,10 @@
 [ ] Install TypeScript
 
 ## CLI
-[ ] Install Angular CLI
-[ ] Install React CLI
-[ ] Install Vue CLI
-[ ] Install Gatsby Command Line Tools
+[ ] Install Angular CLI  
+[ ] Install React CLI  
+[ ] Install Vue CLI  
+[ ] Install Gatsby Command Line Tools  
 
 
 ## Communication
@@ -58,9 +58,9 @@
 [ ] Install Microsoft Teams  
 
 ## SETTINGS/CONFIGURE:
-[ ] Make desktop icon appear
-[ ] Configure github shell credentials
-[ ] Configure Mac Mail App for email
+[ ] Make desktop icon appear  
+[ ] Configure github shell credentials  
+[ ] Configure Mac Mail App for email  
 
 ## Music
 [ ] Install Spotify  
