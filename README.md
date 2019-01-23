@@ -11,10 +11,10 @@
 [ ] Install iTerm2  
 [ ] Ohmyzsh  
 [ ] Install cobalt2 iterm theme  
-https://github.com/wesbos/Cobalt2-iterm
+https://github.com/wesbos/Cobalt2-iterm  
     * Change theme in iterm  
 [ ] Install Homebrew
-* https://brew.sh/
+* https://brew.sh/  
 [ ] Install Git
 * http://sourceforge.net/projects/git-osx-installer/
 
@@ -35,8 +35,8 @@ https://gist.github.com/ibraheem4/ce5ccd3e4d7a65589ce84f2a3b7c23a3
 https://code.visualstudio.com/ 
 * Shell Command: Install 'code' command in PATH  
 In VS Code use Shift + Command + P and look for the above line 
-* Install Terminal Extension
-It's by Jun Han titled 'Terminal for Visual Studio Code'
+* Install Terminal Extension  
+It's by Jun Han titled 'Terminal for Visual Studio Code'  
 [ ] Install Fira Code Font  
 https://github.com/tonsky/FiraCode  
 [ ] Install VS Code Extension Theme - Level Up  
@@ -62,7 +62,7 @@ https://gist.github.com/likethesky/abb00e5aedc38ee9f711
 [ ] Install Elixir extension for VS Code
 vscode-elixir By:  
 Mat McLoughlin 
-[ ] Install TypeScript  
+[ ] Install TypeScript    
 https://www.typescriptlang.org/  
 npm install -g typescript  
 
@@ -99,3 +99,8 @@ http://osxdaily.com/2018/07/18/get-telnet-macos/
 ## Reminders
 * Backup Itunes Iphone/Ipad Backups
 
+### Customizations
+* https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22  
+
+## Hand Exercises Just Because
+* http://www.eatonhand.com/hw/ctexercise.htm  
